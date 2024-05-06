@@ -1,3 +1,7 @@
+# sample user email
+test123@gmail.com  123
+# sample admin username
+toko123 123
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
